@@ -1,1 +1,3 @@
-# covid-dash
+# Covid 19 Epidemilogical dashboard
+
+### Thailand
